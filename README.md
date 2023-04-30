@@ -1,7 +1,7 @@
-# Fairphone Angels Homepage
+# eOS Angels Homepage
 
 ## About
-This is a simple homepage for the [Fairphone Angels Program](https://forum.fairphone.com/t/the-fairphone-angels-program-local-support-by-community-members/33058?u=stefan). It is built with [Dominate][dominate] (Python package) and hosted on [Github Pages](https://pages.github.com/).
+This is a simple homepage cloned from  the [Fairphone Angels Program](https://forum.fairphone.com/t/the-fairphone-angels-program-local-support-by-community-members/33058?u=stefan). It is built with [Dominate][dominate] (Python package) and hosted on [Github Pages](https://pages.github.com/).
 
 ## Develop
 
