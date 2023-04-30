@@ -7,7 +7,7 @@ response = requests.get('https://forum.fairphone.com/raw/48676/1')
 
 if response.status_code == requests.codes.ok:
     heavens = yaml.safe_load(response.text)['heavens']
-    doc = dominate.document(title='Fairphone Angels')
+    doc = dominate.document(title='eOS Angels')
 
     with doc.head:
         link(rel='stylesheet', href='style.css')
