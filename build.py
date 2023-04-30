@@ -24,7 +24,7 @@ if response.status_code == requests.codes.ok:
 
     # Header
     header.add(h1('eOS Angels'))
-    header.add(a('More Info', cls='button btn-info', href='https://forum.fairphone.com/t/the-fairphone-angels-program-local-support-by-community-members/33058?u=stefan'))
+    header.add(a('More Info eOS', cls='button btn-info', href='https://forum.fairphone.com/t/the-fairphone-angels-program-local-support-by-community-members/33058?u=stefan'))
 
     # Map
     map.add(raw("""
